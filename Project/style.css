@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+}
+.pics{
+    width: 130px;
+    height: 130px;
+    border-radius: 70px;
+    margin-left: 573px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.about {
+    color: white;
+    text-align: center;
+    font-family: sofia;
+    color: burlywood;
+}
+.bio {
+    text-align: center;
+    margin-top: 52px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.contant {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.btn1 {
+    background-color: white;
+    text-decoration: none;
+    padding: 12px;
+    color: black;
+    font-size: 15px;
+    font-family: Arial;
+    margin-left: 530px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.btn2 {
+    background-color: rgb(232, 178, 43);
+    text-decoration: none;
+    padding: 12px;
+    color: black;
+    font-size: 15px;
+    font-family: Arial;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.btn1:hover {
+    color: rgb(254, 0, 0);
+}
+
+.btn2:hover {
+    color: rgb(247, 35, 35);
+}
